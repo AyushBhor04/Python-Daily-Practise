@@ -11,16 +11,37 @@
 
 # Question 2:
 # Take a number as input and check whether it is even or odd.
+# num=int(input("Enter any number : "))
+# if(num%2==0):
+#     print(num,"is even")
+# else:
+#     print(num,"is odd")
 
 # Question 3:
 # Take a person's age as input and check whether they are eligible to vote.
 # Voting age: 18.
+# age=int(input("Enter your age : "))
+# if(age<18):
+#     print(age,"is NOT eligible to vote")
+# else:
+#     print(age,"is eligible to vote")
 
 # Question 4:
 # Take two numbers as input and print which number is greater.
+# a=int(input("Enter any number : "))
+# b=int(input("Enter any number : "))
+# if(a>b):
+#     print(a,"is greater than",b)
+# else:
+#     print(b,"is greater than",a)
 
 # Question 5:
 # Take a number as input and check whether it is zero or not.
+# num=int(input("Enter any number : "))
+# if(num==0):
+#     print(num,"is ZERO")
+# else:
+#     print(num,"is NON-ZERO")
 
 # 🟡 Medium
 
