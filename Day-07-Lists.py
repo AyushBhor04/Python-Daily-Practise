@@ -3,9 +3,13 @@
 
 # Question 1:
 # Create a list of 5 numbers and print the list.
+# lis=[1,2,3,4,5]
+# print(lis)
 
 # Question 2:
 # Take 5 numbers as input, store them in a list, and print the list.
+# lis=list(input("Enter integer values : "))
+# print(lis)
 
 # Question 3:
 # Create a list of numbers and print the first and last elements.
