@@ -3,9 +3,23 @@
 
 # Question 1:
 # Create a dictionary containing a student's name, age, and course. Print the dictionary.
+# dict={
+#     "name":["Ayush","Varun","Pranav"],
+#     "age":[12,23,45],
+#     "course":["ML","Sw","AI"]
+# }
+# print(dict)
 
 # Question 2:
 # Create a dictionary containing 5 key-value pairs and print each key separately.
+# dict={
+#     "name":"Ayush",
+#     "age":23,
+#     "course":"ML",
+#     "city":"Navi Mumbai",
+#     "Salary":250000
+# }
+# print(dict.keys())
 
 # Question 3:
 # Take a dictionary and print all its values.
